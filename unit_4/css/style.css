@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+
+body {
+	text-align: center;
+	background: url("http://i36.photobucket.com/albums/e6/patchhn/IMG_8821_zpsk2xsmmn6.jpg");
+	background-size: cover;
+}
+
+hr {
+	width: 500px;
+}
+
+h1 {
+	font-family: "Roboto Condensed", sans-serif;
+	color: #FF7393;
+	font-size: 60px;
+}
+
+h3{
+	color: #5DE8DE;
+	font-size: 18px;
+	font-weight: normal;
+	font-family: "Playfair Display", serif;
+	
+}
+
+p {
+	color: #E9E9E9;
+	font-size: 12px;
+	font-family: "Helvetica Neue"
+}
