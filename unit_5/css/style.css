@@ -1,0 +1,80 @@
+@import 'https://fonts.googleapis.com/css?family=Amatic+SC|Cookie|Dancing+Script|Playfair+Display|Raleway|Roboto+Condensed';
+
+/*font-family: 'Dancing Script', cursive;
+font-family: 'Amatic SC', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Cookie', cursive;
+font-family: 'Roboto Condensed', sans-serif;*/
+
+header {
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+    color: #C4C8FF;
+}
+
+aside {
+	background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+body {
+	text-align: center;
+	background-color: FFF;
+}
+
+hr {
+	width: 500px;
+}
+
+h1 {
+	font-family: "Roboto Condensed", sans-serif;
+	color: #FF7393;
+	font-size: 60px;
+}
+
+h2{
+	color: #5DE8DE;
+	font-size: 54px;
+	font-weight: normal;
+	font-family: 'Cookie', cursive;	
+}
+
+p {
+	color: #FFCF66;
+	font-size: 16px;
+	font-family: 'Raleway', sans-serif;;
+}
+
+
+h3{
+	color: #FF7393;
+	font-size: 18px;
+	font-weight: normal;
+	font-family: 'Amatic SC', cursive;
+	text-transform: uppercase;
+}
+
+#credit {
+	color: #DFE8C1;
+}
